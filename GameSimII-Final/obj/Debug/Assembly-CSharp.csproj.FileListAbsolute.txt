@@ -1,0 +1,2 @@
+C:\Users\joaqu\Documents\Unity Projects\RunPlutoRun\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\joaqu\Documents\Unity Projects\RunPlutoRun\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
